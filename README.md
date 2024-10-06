@@ -87,6 +87,14 @@ ng serve
   -	Al hacer clic en una fila de la tabla, se abrirá un modal con detalles adicionales sobre la transacción.
 
 ## Demostración
+
+## Imágenes del proyecto
+
+### Pantalla de inicio
+
+![Pantalla de inicio](./img/uno.png)
+
+
 Mira el siguiente video para obtener una demostración del proyecto en funcionamiento:
 
 [![Mira el video](https://youtu.be/t64EE9z_YhA/0.jpg)](https://youtu.be/t64EE9z_YhA)
