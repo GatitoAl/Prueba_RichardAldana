@@ -59,7 +59,8 @@ npm install
 ```
 
 3.	Configura tu base de datos en el archivo src/config/db.js.
-4.	Inicia el servidor:
+4.	Configura las variebles de entornoen el archivo /.env
+5.	Inicia el servidor:
 ```bash
 npm run dev
 ```
