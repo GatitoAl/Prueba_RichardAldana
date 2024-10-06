@@ -117,6 +117,6 @@ ng serve
 
 Mira el siguiente video para obtener una demostración del proyecto en funcionamiento:
 
-[![Mira el video](./img/cuatro.png)(https://youtu.be/t64EE9z_YhA)
+[![Mira el video](./img/cuatro.png)](https://youtu.be/t64EE9z_YhA)
 
 Haz clic en la imagen para reproducir el video.
