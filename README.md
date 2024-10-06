@@ -42,7 +42,7 @@ cd tu-repo
 ```bash
 cd PagoPlux
 ```
-###Backend
+### Backend
 
 1.	Navega al directorio backend:
 ```bash
@@ -60,7 +60,7 @@ npm install
 npm run dev
 ```
 
-###Frontend
+### Frontend
 
 1.	Navega al directorio backend:
 ```bash
