@@ -92,11 +92,31 @@ ng serve
 
 ### Pantalla de inicio
 
-![Pantalla de inicio](./img/uno.png)
+<img src="./img/uno.png" alt="Pantalla de inicio" width="400"/>
+
+### Pantalla de botón de pagos
+
+<img src="./img/dos.png" alt="Pantalla dos" width="400"/>
+
+### Pantalla de aceptar la transaccion
+
+<img src="./img/tres.png" alt="Pantalla tres" width="400"/>
+
+### Pantalla de los datos de la transaccion
+
+<img src="./img/cuatro.png" alt="Pantalla cuatro" width="400"/>
+
+### Pantalla de transacciones realizadas
+
+<img src="./img/cinco.png" alt="Pantalla cinco" width="400"/>
+
+### Pantalla de detalles de la transacción
+
+<img src="./img/seis.png" alt="Pantalla seis" width="400"/>
 
 
 Mira el siguiente video para obtener una demostración del proyecto en funcionamiento:
 
-[![Mira el video](https://youtu.be/t64EE9z_YhA/0.jpg)](https://youtu.be/t64EE9z_YhA)
+[![Mira el video](./img/cuatro.png)(https://youtu.be/t64EE9z_YhA)
 
 Haz clic en la imagen para reproducir el video.
