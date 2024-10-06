@@ -14,8 +14,7 @@ adjunta en el correo.
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Demostración](#demostracion)
 
 ## Características
 
@@ -83,8 +82,13 @@ npm install
 ng serve
 ```
 
+•	La aplicación se ejecutará en http://localhost:4200 para el frontend y http://localhost:5000 para el backend.
+•	Puedes registrar un nuevo usuario y autenticarte. Las transacciones se mostrarán en una tabla.
+•	Al hacer clic en una fila de la tabla, se abrirá un modal con detalles adicionales sobre la transacción.
 
+## Demostración
+Mira el siguiente video para obtener una demostración del proyecto en funcionamiento:
 
-	•	La aplicación se ejecutará en http://localhost:4200 para el frontend y http://localhost:5000 para el backend.
-	•	Puedes registrar un nuevo usuario y autenticarte. Las transacciones se mostrarán en una tabla.
-	•	Al hacer clic en una fila de la tabla, se abrirá un modal con detalles adicionales sobre la transacción.
+[![Mira el video](https://img.youtube.com/vi/{VIDEO_ID}/0.jpg)](https://youtu.be/t64EE9z_YhA)
+
+Haz clic en la imagen para reproducir el video.
