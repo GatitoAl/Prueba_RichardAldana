@@ -1,7 +1,12 @@
 # Prueba_RichardAldana
-# Proyecto Nombre
 
-Descripción breve del proyecto, su propósito y funcionalidades.
+Elaborar un sistema de autenticación sencillo (frontend angular y backend en NodeJs) que
+permita iniciar sesión a través de un backend que se conecte a una base de datos de su
+preferencia. La validación de campos de usuario y contraseña se debe realizar en el
+backend.
+Una vez que el usuario ingresa debe dar clic en el botón de pagos de PagoPlux y posterior al pago con las tarjetas de prueba debe ejecutarse un servicio de
+consultas de transacciones por API, el cual debe conectarse a través del backend (se
+adjunta en el correo.
 
 ## Tabla de Contenidos
 
@@ -14,9 +19,9 @@ Descripción breve del proyecto, su propósito y funcionalidades.
 
 ## Características
 
-- Funcionalidad 1: Descripción breve.
-- Funcionalidad 2: Descripción breve.
-- Funcionalidad 3: Descripción breve.
+- Login con conexión a backend en NodeJs
+- Frontend Angularjs
+- Realizar consumo de API de consultas por backend
 
 ## Tecnologías Utilizadas
 
