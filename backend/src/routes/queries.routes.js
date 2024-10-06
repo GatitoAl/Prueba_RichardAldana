@@ -7,4 +7,6 @@ router.post('/all', queriesController.ids);
 
 router.post('/register', queriesController.registerTransaction);
 
+router.post('/id', queriesController.id);
+
 module.exports = router;
