@@ -10,7 +10,7 @@ const authMiddleware = (req, res, next) => {
 
     try {
         const verified = jwt.verify(token, process.env.JWT_SECRET);
-        req.user = verified; // Añadir la información del usuario a la solicitud
+        req.user = verified;
         next();
     } catch (error) {
         res.status(400).json({ error: 'Token no válido' });

@@ -15,12 +15,11 @@ const app = express();
 
 // Configurar CORS para permitir el origen http://localhost:4200
 app.use(cors({
-    origin: 'http://localhost:4200', // Permitir sólo este origen
-    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Métodos permitidos
-    credentials: true, // Si estás manejando cookies o tokens de autenticación
+    origin: 'http://localhost:4200',
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    credentials: true,
 }));
 
-// Middleware para parsear JSON
 app.use(express.json());
 
 // Rutas

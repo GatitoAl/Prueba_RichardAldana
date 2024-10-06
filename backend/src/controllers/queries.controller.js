@@ -4,8 +4,8 @@ exports.ids = async (req, res) => {
     const { type } = req.body;
     if (type === "all") {
         try {
-            const transactions = await queriesService.allQueries(); // Obteniendo todos los objetos de la colección
-            res.status(200).json(transactions); // Enviando respuesta con todas las transacciones
+            const transactions = await queriesService.allQueries();
+            res.status(200).json(transactions);
         } catch (error) {
             res.status(500).json({ message: 'Error al obtener las transacciones', error });
         }
